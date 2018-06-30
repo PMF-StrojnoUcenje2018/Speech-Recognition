@@ -7,6 +7,7 @@ Repozitorij tima Speech-Recognition (Petra, Petra, Karmen, Siniša)
 # Projekt - pokretanje 
 
 Dataset downloadati sa sljedece stranice: https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
+
 Train dataset raspakirati unutar data/raw/train/audio a test dataset unutar data/raw/test/audio.
 
 U libs/classification se nalaze sve skripte za treniranje.
