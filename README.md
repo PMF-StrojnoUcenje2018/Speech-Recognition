@@ -17,6 +17,8 @@ Repozitorij tima Speech-Recognition (Petra, Petra, Karmen, Siniša)
 
 -scripts: execute_notebook.py svaka skripta može se pokrenuti sa ./script/execute_notebook.py
 
+-analiza dataseta: notebook koji istražuje i vizualizira dataset i neke metode za odabir značajki
+
 # Potrebno:
 
 Tensorflow 1.4
